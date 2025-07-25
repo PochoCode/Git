@@ -1,0 +1,3 @@
+ls-listra
+cd-entrar sair
+rm -rf -apaga todos os commit
