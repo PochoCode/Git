@@ -26,4 +26,3 @@ Curso sobre fundamentos de git e github do canal de TMW
  10. excluir <nova_branch> origin
  11. git checkout main 
 
- [Curso Git 2025](https://youtube.com/@teomewhy)
