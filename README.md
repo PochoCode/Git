@@ -24,4 +24,6 @@ Curso sobre fundamentos de git e github do canal de TMW
  08. git push origin <nova_branch>
  09. abrir Pull request no GitHub para main
  10. excluir <nova_branch> origin
- 11. git checkout main
+ 11. git checkout main 
+
+ [Curso Git 2025](https://youtube.com/@teomewhy)
